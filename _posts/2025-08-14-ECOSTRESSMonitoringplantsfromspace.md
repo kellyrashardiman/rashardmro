@@ -6,7 +6,16 @@ title: "ECOSTRESS:Monitoring plants from space"
 image: ecostressjplnasagov-eco-booster.jpg
 ---
 
-<img   alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
+
+[ECOSTRESS Data Reveal Surprising Water Use Patterns](https://ecostress.jpl.nasa.gov/news/ecostress-data-reveal-surprising-water-use-patterns)
+
+<img    />
 
 [NasaVitals ECOSTRESS JUPiTERNOTEBOOK](This repository provides Python Jupyter notebook examples to help users work with VSWIR and TIR data from the EMIT and ECOSTRESS missions. ) 
 
@@ -14,7 +23,7 @@ image: ecostressjplnasagov-eco-booster.jpg
 
 [ECOSTRESS: Monitoring plants from space](https://www.youtube.com/watch?v=ALZTMLH9boY)
 [Monitoring Plant Health from Space: NASA’s ECOSTRESS Mission](https://www.youtube.com/watch?v=kR8LlN0ftG4)
-[ECOSTRESS: NASA's Next-Generation Mission to Measure Evapotranspiration from the ISS](https://youtu.be/7d1beGfOHPs?si=W_tyGA6TEGoNJSCT) [**NASA ARSET: Introduction to OpenET, Part 1/3**](https://youtu.be/QHqWrO2HMco?si=2MgryGBUvhuH3YK3) [The NASA ECOSTRESS Mission - Dr Josh Fisher (Science Lead, NASA-JPL) - OCTF Seminar](https://youtu.be/fwCjq-Ltkoc)
+[ECOSTRESS: NASA's Next-Generation Mission to Measure Evapotranspiration from the ISS](https://youtu.be/7d1beGfOHPs?si=W_tyGA6TEGoNJSCT) [**NASA ARSET: Introduction to OpenET, Part 1/3**](https://youtu.be/QHqWrO2HMco?si=2MgryGBUvhuH3YK3) [The NASA ECOSTRESS Mission - Dr Josh Fisher (Science Lead, NASA-JPL) - OCTF Seminar](https://youtu.be/fwCjq-Ltkoc) [ECOSTRESS Science Meeting 2023](https://thermal-rs.earsel.org/?p=511)
 
 ![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
 
